@@ -14,7 +14,7 @@ int main(int argc, char* argv[])
 	int j = 0;
 
 
-	for (int i = 1; i <= 5; i++)
+	for (int i = 1; i <= n; i++)
 	{
 		nums.push_back(i);
 	}
